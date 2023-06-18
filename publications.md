@@ -3,8 +3,9 @@ layout: page
 title: Publications
 ---
 
-In this page, I will try to maintain a list of my publications in a presentive index. The formal category-based list would be found in my [CV](https://nbviewer.org/github/mbarzegary/MyCV-shortened/blob/main/main.pdf) (or even on [Google Scholar](https://scholar.google.co.uk/citations?user=UkgS0HMAAAAJ&hl=en)).
+In this page, I will try to maintain a list of my publications in a presentive index. The formal category-based list would be found in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=OSuySyQAAAAJ).
 
+<!--
 ## Computational Biomechanics and Tissue Engineering
 
 ### Finite Element Method, Materials Modeling
@@ -94,7 +95,7 @@ In this page, I will try to maintain a list of my publications in a presentive i
 
 * S. Gholami, A. Danayi, A. Rezaee, **M. Barzegari**, "[Embedded Systems and the Challenge of Complex Computing in Internet of Things](https://civilica.com/doc/656407/)", *1st International Conference on Internet of Things, Applications and Infrastructure*, Isfahan, Iran, 2017 [Persian]
 
-
+-->
 
 
 <!-- * **M. Barzegari**, H. Bayani, S. M. H. Mirbagheri, Simulation of Air Bubbles Interaction in Metallic Foams using Lattice Boltzmann Method", Submitted to Journal of Applied and Computational Sciences in Mechanics [Persian] -->
