@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Mojtaba Barzegari
+title:            Jorge Barrasa Fano
 tagline:          'Personal Site'
 description:      ''
-url:              https://mbarzegary.github.io/
+url:              https://jorgebarrasafano.github.io/
 
 highlighter:      rouge
 markdown:         kramdown
@@ -17,4 +17,4 @@ markdown:         kramdown
 paginate:         5
 
 github:
-  repo:           https://github.com/mbarzegary/mbarzegary.github.io
+  repo:           https://github.com/JorgeBarrasaFano/jorgebarrasafano.github.io
