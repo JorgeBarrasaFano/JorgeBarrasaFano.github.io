@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 @media (min-width: 48rem) {
   html {
@@ -67,19 +67,21 @@ html {
     bottom: 0;
     width: 20rem;
     text-align: left;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Montserrat", serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2.75rem;
 }
 
@@ -131,6 +133,7 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 
@@ -138,6 +141,7 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 
@@ -156,6 +160,7 @@ a.sidebar-nav-item:focus {
   .layout-reverse .content {
     margin-left: 2rem;
     margin-right: 20rem;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 
