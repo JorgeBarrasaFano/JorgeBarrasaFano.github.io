@@ -5,6 +5,8 @@ title: Research Portfolio
 
 Details of my PhD work can be found [in this page](phd).
 
+
+<!--
 [My Research Interests](#interests) 
 
 [Research Projects I've Been Involved In](#projects) 
@@ -91,43 +93,6 @@ More info [here](https://doi.org/10.1016/j.jmrt.2013.10.011)
 More info [here](https://doi.org/10.1007/s11517-020-02148-2)
 <img src="/public/portfolio/bladder-fsi.png" alt="color photo ftl" width="100%" height="auto" />
 
-<!-- Implementation of ANN models to investigate complex parameters of urology diseases\
-*University of Tehran*, 2013--2014 -->
-
-
-#### <a name="comp_mater"></a> Computational Materials Science
-
-* Development of dendrite and microstructure growth models to simulate the solidification process of metals\
-*Amirkabir University of Technology*, 2009--2011\
-More info [here](https://doi.org/10.1016/j.jmrt.2013.10.011)
-<img src="/public/portfolio/dendrite.jpg" alt="color photo ftl" width="100%" height="auto" />
-
-<!-- CFD aspects -->
-<!-- Development of coupling simulation software packages to link multiphysics CFD models and AI\
-*Amirkabir University of Technology*, 2010--2011 -->
-<!-- Implementation of ANN models to investigate relations between porous media parameters and permeability\
-*Amirkabir University of Technology*, 2010--2011 -->
-
-#### <a name="ml"></a> Machine Learning and Computational Intelligence
-
-* Development of coupled models of deep reinforcement learning and multiphysics parallel CFD for thermal shape optimization\
-*KU Leuven & University of Waterloo*, 2021--2022\
-More info [here](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123112)
-<img src="/public/portfolio/reinforcement.jpg" alt="color photo ftl" width="100%" height="auto" />
-
-* Development of physics-informed neural network models to solve governing equations of tissue engineering processes (cell growth and oxygen consumption)\
-*KU Leuven*, 2020--2022\
-More info will be available soon
-<img src="/public/portfolio/pinn.png" alt="color photo ftl" width="100%" height="auto" />
-
-* Development of Privacy-Preserving Deep Learning models using Federated Learning and Differential Privacy for healthcare IoT systems\
-*KU Leuven & Duke University*, 2019--2020\
-More info [here](https://doi.org/10.1109/JIOT.2020.3027971) and [here](https://doi.org/10.1109/COINS51742.2021.9524098)
-<img src="/public/portfolio/federated-2.png" alt="color photo ftl" width="100%" height="auto" />
-
-* Implementation of Machine Learning models for signal processing and anomaly detection of EEG and ECG signals\
-*KU Leuven & Imec*, 2018--2019\
-More info [here](https://www.sciencedirect.com/science/article/pii/S0141933119303928)
-<img src="/public/portfolio/ecg.jpg" alt="color photo ftl" width="100%" height="auto" />
+-->
 
 
