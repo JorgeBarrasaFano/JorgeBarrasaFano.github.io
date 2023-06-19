@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Greetings! I am Jorge Barrasa Fano, a passionate PostDoc researcher in Mechanobiology.   please refer to my [Research Portfolio](/research).
+Hello! I am Jorge Barrasa Fano, a Postdoctoral researcher in Mechanobiology. Please refer to my [Research Portfolio](/research).
 
 
 
